@@ -1,4 +1,4 @@
-package operator;
+package capitulo2.operator;
 
 public class OperadoresUniarios {
     public static void main(String[] args) {

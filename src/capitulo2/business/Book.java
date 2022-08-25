@@ -1,4 +1,4 @@
-package business;
+package capitulo2.business;
 
 public class Book {
     private String title;

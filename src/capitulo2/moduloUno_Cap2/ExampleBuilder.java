@@ -1,6 +1,4 @@
-package moduloUno_Cap2;
-
-import javax.jws.Oneway;
+package capitulo2.moduloUno_Cap2;
 
 // builder declaration
 public class ExampleBuilder {
@@ -31,7 +29,7 @@ public class ExampleBuilder {
     //Example of a builder that uses the package name without the "import"
     // without = sin
 
-    moduloUno_Cap2.ExampleOverload obj2 = new moduloUno_Cap2.ExampleOverload('a' );
+    capitulo2.moduloUno_Cap2.ExampleOverload obj2 = new capitulo2.moduloUno_Cap2.ExampleOverload('a' );
 
 
 }

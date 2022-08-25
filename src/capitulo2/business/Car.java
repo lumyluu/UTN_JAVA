@@ -1,4 +1,4 @@
-package business;
+package capitulo2.business;
 
 public class Car {
     private String model;

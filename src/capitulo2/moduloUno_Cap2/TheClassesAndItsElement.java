@@ -1,4 +1,4 @@
-package moduloUno_Cap2;
+package capitulo2.moduloUno_Cap2;
 
 public class TheClassesAndItsElement {
     //Typical Declaration

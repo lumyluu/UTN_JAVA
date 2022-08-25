@@ -1,4 +1,4 @@
-package business;
+package capitulo2.business;
 
 public class Secretary extends Employee{
     private int telephone;

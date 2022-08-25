@@ -1,4 +1,4 @@
-package disguisePrivate;
+package capitulo2.disguisePrivate;
 
 public class Person2 {
 

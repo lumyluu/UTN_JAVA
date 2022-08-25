@@ -1,4 +1,4 @@
-package disguisePrivate;
+package capitulo2.disguisePrivate;
 // disguise = ocultar
 public class Person {
     private String firstName;

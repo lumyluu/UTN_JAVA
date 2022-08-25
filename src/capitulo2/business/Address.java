@@ -1,4 +1,4 @@
-package business;
+package capitulo2.business;
 
 public class Address {
     private String street;

@@ -1,4 +1,4 @@
-package business;
+package capitulo2.business;
 
 public class BusinessTest {
     public static void main (String [] args){
